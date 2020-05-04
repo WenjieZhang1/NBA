@@ -9,7 +9,7 @@ import (
 
 func main() {
 	e := engine.ConcurrentEngine{
-		Sch:         &scheduler.SimpleScheduler{},
+		Sch:         &scheduler.QueuedScheduler{},
 		WorkerCount: 100,
 		ItemChan:    persist.ItemSaver(),
 	}

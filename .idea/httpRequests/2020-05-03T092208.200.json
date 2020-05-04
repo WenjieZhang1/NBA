@@ -1,0 +1,1216 @@
+{
+  "took" : 37,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 466,
+    "max_score" : 3.8591104,
+    "hits" : [
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "K2vk3XEBbTbEknGg7wk-",
+        "_score" : 3.8591104,
+        "_source" : {
+          "Name" : "科林-塞克斯顿",
+          "Position" : "G（2号）",
+          "Height" : "1.85米/6尺1",
+          "Weight" : "86公斤/190磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "dmvk3XEBbTbEknGg9QmN",
+        "_score" : 3.7782476,
+        "_source" : {
+          "Name" : "埃利-奥科博",
+          "Position" : "G-F（2号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "86公斤/190磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "LGvl3XEBbTbEknGgBgqW",
+        "_score" : 3.7751167,
+        "_source" : {
+          "Name" : "帕蒂-米尔斯",
+          "Position" : "G（8号）",
+          "Height" : "1.85米/6尺1",
+          "Weight" : "82公斤/180磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "1mvk3XEBbTbEknGg4wc8",
+        "_score" : 3.742443,
+        "_source" : {
+          "Name" : "卢克-科内特",
+          "Position" : "F-C（2号）",
+          "Height" : "2.18米/7尺2",
+          "Weight" : "113公斤/250磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "FGvk3XEBbTbEknGg7glc",
+        "_score" : 3.742443,
+        "_source" : {
+          "Name" : "查森-兰德尔",
+          "Position" : "G（9号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "84公斤/185磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "ZWvk3XEBbTbEknGg9An2",
+        "_score" : 3.5779796,
+        "_source" : {
+          "Name" : "蒙特-莫里斯",
+          "Position" : "G（11号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "83公斤/183磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Cmvl3XEBbTbEknGgAgop",
+        "_score" : 3.5779796,
+        "_source" : {
+          "Name" : "丹尼斯-史密斯",
+          "Position" : "G（5号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "93公斤/205磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "uWvk3XEBbTbEknGg-Qka",
+        "_score" : 3.5126717,
+        "_source" : {
+          "Name" : "多诺万-米切尔",
+          "Position" : "G（45号）",
+          "Height" : "1.85米/6尺1",
+          "Weight" : "98公斤/215磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "w2vk3XEBbTbEknGg4gem",
+        "_score" : 3.3572078,
+        "_source" : {
+          "Name" : "约翰-沃尔",
+          "Position" : "G（2号）",
+          "Height" : "1.93米/6尺4",
+          "Weight" : "95公斤/210磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "cmvk3XEBbTbEknGg6AgE",
+        "_score" : 3.3572078,
+        "_source" : {
+          "Name" : "艾尔-法鲁克-阿米奴",
+          "Position" : "F（2号）",
+          "Height" : "2.03米/6尺8",
+          "Weight" : "100公斤/220磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "5mvk3XEBbTbEknGg7AjS",
+        "_score" : 3.3572078,
+        "_source" : {
+          "Name" : "托里恩-普林斯",
+          "Position" : "F（2号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "99公斤/218磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "TWvk3XEBbTbEknGg9AkI",
+        "_score" : 3.3373196,
+        "_source" : {
+          "Name" : "塞思-库里",
+          "Position" : "G（30号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "84公斤/185磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "cmvk3XEBbTbEknGg9Qln",
+        "_score" : 3.3373196,
+        "_source" : {
+          "Name" : "达米安-利拉德",
+          "Position" : "G",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "88公斤/195磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "E2vl3XEBbTbEknGgAwoN",
+        "_score" : 3.3373196,
+        "_source" : {
+          "Name" : "布兰登-奈特",
+          "Position" : "G（20号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "83公斤/182磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "hWvk3XEBbTbEknGg9Qn-",
+        "_score" : 3.2302718,
+        "_source" : {
+          "Name" : "摩西-布朗",
+          "Position" : "C（4号）",
+          "Height" : "2.18米/7尺2",
+          "Weight" : "111公斤/245磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "pGvk3XEBbTbEknGg-Ak8",
+        "_score" : 3.2302718,
+        "_source" : {
+          "Name" : "尼格尔-威廉姆斯-戈斯",
+          "Position" : "G",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "86公斤/190磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Hmvl3XEBbTbEknGgBgoE",
+        "_score" : 3.2302718,
+        "_source" : {
+          "Name" : "德里克-罗斯",
+          "Position" : "G（25号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "omvk3XEBbTbEknGg-Akl",
+        "_score" : 3.1878526,
+        "_source" : {
+          "Name" : "盖布-文森特",
+          "Position" : "G（2号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "BWvl3XEBbTbEknGgAQr7",
+        "_score" : 3.1878526,
+        "_source" : {
+          "Name" : "韦恩-艾灵顿",
+          "Position" : "G（2号）",
+          "Height" : "1.93米/6尺4",
+          "Weight" : "94公斤/207磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "oGvk3XEBbTbEknGg-AkR",
+        "_score" : 3.0793421,
+        "_source" : {
+          "Name" : "朗佐-鲍尔",
+          "Position" : "G（2号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "86公斤/190磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "0Gvk3XEBbTbEknGg_wmH",
+        "_score" : 3.0793421,
+        "_source" : {
+          "Name" : "科怀-伦纳德",
+          "Position" : "F（2号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "102公斤/225磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Zmvk3XEBbTbEknGg5wiH",
+        "_score" : 3.0122917,
+        "_source" : {
+          "Name" : "维克-劳",
+          "Position" : "F（23号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "umvk3XEBbTbEknGg6QjT",
+        "_score" : 3.0122917,
+        "_source" : {
+          "Name" : "科里-约瑟夫",
+          "Position" : "G（9号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "6Wvk3XEBbTbEknGg7Ajq",
+        "_score" : 3.0122917,
+        "_source" : {
+          "Name" : "凯里-欧文",
+          "Position" : "G（11号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "88公斤/195磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "KGvk3XEBbTbEknGg7wkj",
+        "_score" : 3.0122917,
+        "_source" : {
+          "Name" : "谢尔登-麦克莱伦",
+          "Position" : "G-F",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "PWvk3XEBbTbEknGg7wnW",
+        "_score" : 3.0122917,
+        "_source" : {
+          "Name" : "拉塞尔-威斯布鲁克",
+          "Position" : "G",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Z2vk3XEBbTbEknGg9QkG",
+        "_score" : 3.0122917,
+        "_source" : {
+          "Name" : "波尔-波尔",
+          "Position" : "C-F（10号）",
+          "Height" : "2.18米/7尺2",
+          "Weight" : "100公斤/220磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "l2vk3XEBbTbEknGg9wmX",
+        "_score" : 3.0122917,
+        "_source" : {
+          "Name" : "肯德里克-纳恩",
+          "Position" : "G（25号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "86公斤/190磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "JWvl3XEBbTbEknGgBgpY",
+        "_score" : 3.0122917,
+        "_source" : {
+          "Name" : "布林-福布斯",
+          "Position" : "G（11号）",
+          "Height" : "1.88米/6尺2",
+          "Weight" : "93公斤/205磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "f2vk3XEBbTbEknGg3wf6",
+        "_score" : 2.9789574,
+        "_source" : {
+          "Name" : "科斯塔斯-阿德托昆博",
+          "Position" : "F（37号）",
+          "Height" : "2.08米/6尺10",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Fmvk3XEBbTbEknGg7glq",
+        "_score" : 2.9789574,
+        "_source" : {
+          "Name" : "马利克-蒙克",
+          "Position" : "G（1号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "DGvl3XEBbTbEknGgAgo7",
+        "_score" : 2.9789574,
+        "_source" : {
+          "Name" : "弗朗克-尼利基纳",
+          "Position" : "G（11号）",
+          "Height" : "1.93米/6尺4",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "7Gvl3XEBbTbEknGgAQka",
+        "_score" : 2.9739187,
+        "_source" : {
+          "Name" : "杰里米-兰姆",
+          "Position" : "G-F（26号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "82公斤/180磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "aWvk3XEBbTbEknGg5wiq",
+        "_score" : 2.8853345,
+        "_source" : {
+          "Name" : "BJ-约翰逊",
+          "Position" : "F（13号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Y2vk3XEBbTbEknGg9Ank",
+        "_score" : 2.8853345,
+        "_source" : {
+          "Name" : "特洛伊-丹尼尔斯",
+          "Position" : "G（30号）",
+          "Height" : "1.93米/6尺4",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "qWvk3XEBbTbEknGg-Alw",
+        "_score" : 2.8853345,
+        "_source" : {
+          "Name" : "JJ-雷迪克",
+          "Position" : "G（4号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "B2vl3XEBbTbEknGgAgoP",
+        "_score" : 2.8853345,
+        "_source" : {
+          "Name" : "约什-理查德森",
+          "Position" : "G",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "HGvk3XEBbTbEknGg7gmV",
+        "_score" : 2.8222942,
+        "_source" : {
+          "Name" : "特雷韦恩-格雷厄姆",
+          "Position" : "G-F（2号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "99公斤/219磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "eGvk3XEBbTbEknGg9Qme",
+        "_score" : 2.8222942,
+        "_source" : {
+          "Name" : "小加里-特伦特",
+          "Position" : "G-F（2号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "95公斤/209磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "qmvk3XEBbTbEknGg4QfX",
+        "_score" : 2.7869315,
+        "_source" : {
+          "Name" : "扎克-拉文",
+          "Position" : "G-F（8号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "R2vk3XEBbTbEknGg8wnL",
+        "_score" : 2.7869315,
+        "_source" : {
+          "Name" : "奥斯汀-里弗斯",
+          "Position" : "G（25号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "dWvk3XEBbTbEknGg9QmE",
+        "_score" : 2.7869315,
+        "_source" : {
+          "Name" : "杰文-卡特",
+          "Position" : "G（4号）",
+          "Height" : "1.85米/6尺1",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "pWvk3XEBbTbEknGg-AlJ",
+        "_score" : 2.7869315,
+        "_source" : {
+          "Name" : "伊曼纽尔-穆迪埃",
+          "Position" : "G（15号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "CGvl3XEBbTbEknGgAgoY",
+        "_score" : 2.7869315,
+        "_source" : {
+          "Name" : "阿朗佐-特里尔",
+          "Position" : "G（14号）",
+          "Height" : "1.93米/6尺4",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "H2vl3XEBbTbEknGgBgoN",
+        "_score" : 2.7869315,
+        "_source" : {
+          "Name" : "兰斯顿-加洛韦",
+          "Position" : "G（9号）",
+          "Height" : "1.85米/6尺1",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "p2vk3XEBbTbEknGg4Qex",
+        "_score" : 2.7670777,
+        "_source" : {
+          "Name" : "哈米杜-迪亚洛",
+          "Position" : "G-F（6号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "92公斤/202磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "42vk3XEBbTbEknGg7Ai5",
+        "_score" : 2.7670777,
+        "_source" : {
+          "Name" : "杰雷米亚-马丁",
+          "Position" : "G",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "84公斤/185磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "t2vk3XEBbTbEknGg-QkH",
+        "_score" : 2.7670777,
+        "_source" : {
+          "Name" : "达里厄斯-米勒",
+          "Position" : "F（21号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "102公斤/225磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "aGvk3XEBbTbEknGg3ge2",
+        "_score" : 2.7266839,
+        "_source" : {
+          "Name" : "谢伊-吉尔杰斯-亚历山大",
+          "Position" : "G-F（2号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "82公斤/180磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "wmvk3XEBbTbEknGg-Ql3",
+        "_score" : 2.7266839,
+        "_source" : {
+          "Name" : "乔-英格尔斯",
+          "Position" : "F-G（2号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "100公斤/220磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "12vk3XEBbTbEknGg6wiJ",
+        "_score" : 2.664246,
+        "_source" : {
+          "Name" : "马尔科姆-米勒",
+          "Position" : "F-G（13号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "95公斤/210磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "XGvk3XEBbTbEknGg9Amr",
+        "_score" : 2.664246,
+        "_source" : {
+          "Name" : "保罗-米尔萨普",
+          "Position" : "F（4号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "117公斤/257磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "-2vk3XEBbTbEknGg7QiU",
+        "_score" : 2.622468,
+        "_source" : {
+          "Name" : "克里斯-布歇",
+          "Position" : "F-C（25号）",
+          "Height" : "2.06米/6尺9",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "_Wvk3XEBbTbEknGg7Qij",
+        "_score" : 2.622468,
+        "_source" : {
+          "Name" : "卡森-爱德华兹",
+          "Position" : "G（4号）",
+          "Height" : "1.8米/5尺11",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "M2vk3XEBbTbEknGg7wl8",
+        "_score" : 2.622468,
+        "_source" : {
+          "Name" : "马修-戴拉维多瓦",
+          "Position" : "G（18号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Rmvk3XEBbTbEknGg8wm4",
+        "_score" : 2.622468,
+        "_source" : {
+          "Name" : "迈克尔-弗雷泽",
+          "Position" : "G（21号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Bmvl3XEBbTbEknGgAgoG",
+        "_score" : 2.622468,
+        "_source" : {
+          "Name" : "肯尼-伍滕",
+          "Position" : "F（45号）",
+          "Height" : "2.06米/6尺9",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "CWvl3XEBbTbEknGgAgoh",
+        "_score" : 2.622468,
+        "_source" : {
+          "Name" : "卡迪姆-阿伦",
+          "Position" : "G",
+          "Height" : "1.85米/6尺1",
+          "Weight" : "91公斤/200磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "gGvk3XEBbTbEknGg9QnZ",
+        "_score" : 2.4900484,
+        "_source" : {
+          "Name" : "米卡尔-布里奇斯",
+          "Position" : "F（25号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "95公斤/209磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "HWvk3XEBbTbEknGg7gme",
+        "_score" : 2.432212,
+        "_source" : {
+          "Name" : "达米恩-李",
+          "Position" : "G-F（1号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "95公斤/210磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "tmvk3XEBbTbEknGg-An9",
+        "_score" : 2.432212,
+        "_source" : {
+          "Name" : "米耶-奥尼",
+          "Position" : "G（81号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "93公斤/206磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "q2vk3XEBbTbEknGg4Qfj",
+        "_score" : 2.249606,
+        "_source" : {
+          "Name" : "伊安-马辛米",
+          "Position" : "C（28号）",
+          "Height" : "2.11米/6尺11",
+          "Weight" : "119公斤/262磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "-Wvk3XEBbTbEknGg7QiH",
+        "_score" : 2.249606,
+        "_source" : {
+          "Name" : "谢米-奥杰莱",
+          "Position" : "F（37号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "109公斤/240磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "DWvk3XEBbTbEknGg7gkh",
+        "_score" : 2.249606,
+        "_source" : {
+          "Name" : "达米安-琼斯",
+          "Position" : "C（30号）",
+          "Height" : "2.11米/6尺11",
+          "Weight" : "111公斤/245磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "lGvk3XEBbTbEknGg9wl9",
+        "_score" : 2.249606,
+        "_source" : {
+          "Name" : "吉米-巴特勒",
+          "Position" : "F（22号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "104公斤/230磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "1Gvk3XEBbTbEknGg_wnC",
+        "_score" : 2.249606,
+        "_source" : {
+          "Name" : "阿米尔-科菲",
+          "Position" : "G-F（7号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "95公斤/210磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "-mvl3XEBbTbEknGgAQmc",
+        "_score" : 2.249606,
+        "_source" : {
+          "Name" : "谢克-米尔顿",
+          "Position" : "G-F（18号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "93公斤/205磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "aGvk3XEBbTbEknGg9QkN",
+        "_score" : 2.0925045,
+        "_source" : {
+          "Name" : "杰拉米-格兰特",
+          "Position" : "F（9号）",
+          "Height" : "2.03米/6尺8",
+          "Weight" : "95公斤/210磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "4Gvl3XEBbTbEknGgAAmZ",
+        "_score" : 2.0925045,
+        "_source" : {
+          "Name" : "纳兹-米特鲁-朗",
+          "Position" : "G（15号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "99公斤/218磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "C2vl3XEBbTbEknGgAgoy",
+        "_score" : 2.0925045,
+        "_source" : {
+          "Name" : "米切尔-罗宾逊",
+          "Position" : "C-F（23号）",
+          "Height" : "2.13米/7尺0",
+          "Weight" : "109公斤/240磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "xWvk3XEBbTbEknGg4ge-",
+        "_score" : 2.0817187,
+        "_source" : {
+          "Name" : "阿德米拉尔-斯科菲尔德",
+          "Position" : "F-G（1号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "109公斤/241磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "mWvk3XEBbTbEknGg9wm3",
+        "_score" : 1.9559131,
+        "_source" : {
+          "Name" : "克里斯-米德尔顿",
+          "Position" : "F（22号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "101公斤/222磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "IWvl3XEBbTbEknGgBgof",
+        "_score" : 1.8765663,
+        "_source" : {
+          "Name" : "斯维亚托斯拉夫-米哈伊柳克",
+          "Position" : "G-F（19号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "93公斤/205磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "aWvk3XEBbTbEknGg3wcw",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "凯尔-库兹马",
+          "Position" : "F",
+          "Height" : "2.06米/6尺9",
+          "Weight" : "100公斤/221磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "bGvk3XEBbTbEknGg3wdm",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "迪昂-韦特斯",
+          "Position" : "G（18号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "95公斤/210磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "gGvk3XEBbTbEknGg4AcG",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "安德烈-罗伯森",
+          "Position" : "G-F（21号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "95公斤/210磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "hWvk3XEBbTbEknGg4Ac5",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "埃弗里-布拉德利",
+          "Position" : "G（11号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "82公斤/180磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "iGvk3XEBbTbEknGg4AdX",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "贾维尔-麦基",
+          "Position" : "C-F（7号）",
+          "Height" : "2.13米/7尺0",
+          "Weight" : "122公斤/270磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "jmvk3XEBbTbEknGg4Aej",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "勒布朗-詹姆斯",
+          "Position" : "F-G（23号）",
+          "Height" : "2.06米/6尺9",
+          "Weight" : "113公斤/250磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "qWvk3XEBbTbEknGg4QfL",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "加里森-马修斯",
+          "Position" : "G（24号）",
+          "Height" : "1.96米/6尺5",
+          "Weight" : "98公斤/215磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "r2vk3XEBbTbEknGg4gcQ",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "特洛伊-布朗",
+          "Position" : "F-G（6号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "98公斤/215磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "-Wvk3XEBbTbEknGg5Adm",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "奥托-波特",
+          "Position" : "F（22号）",
+          "Height" : "2.03米/6尺8",
+          "Weight" : "90公斤/198磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "HWvk3XEBbTbEknGg5QhF",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "劳里-马尔卡宁",
+          "Position" : "F-C（24号）",
+          "Height" : "2.13米/7尺0",
+          "Weight" : "109公斤/240磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Z2vk3XEBbTbEknGg5wiV",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "莫里茨-瓦格纳",
+          "Position" : "F-C（21号）",
+          "Height" : "2.11米/6尺11",
+          "Weight" : "111公斤/245磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "a2vk3XEBbTbEknGg5wi9",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "钱德勒-哈奇森",
+          "Position" : "F-G（15号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "95公斤/210磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "cWvk3XEBbTbEknGg5wj4",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "特伦斯-罗斯",
+          "Position" : "G-F（31号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "93公斤/206磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "c2vk3XEBbTbEknGg6AgR",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "八村垒",
+          "Position" : "F（8号）",
+          "Height" : "2.03米/6尺8",
+          "Weight" : "104公斤/230磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "emvk3XEBbTbEknGg6AhK",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "伊萨克-邦加",
+          "Position" : "F（17号）",
+          "Height" : "2.03米/6尺8",
+          "Weight" : "82公斤/180磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "e2vk3XEBbTbEknGg6AhS",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "沙巴兹-内皮尔",
+          "Position" : "G（5号）",
+          "Height" : "1.83米/6尺0",
+          "Weight" : "79公斤/175磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "tmvk3XEBbTbEknGg6Qiw",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "达龙-福克斯",
+          "Position" : "G（5号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "84公斤/185磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "uWvk3XEBbTbEknGg6QjM",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "马文-巴格利",
+          "Position" : "F（35号）",
+          "Height" : "2.11米/6尺11",
+          "Weight" : "107公斤/235磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "u2vk3XEBbTbEknGg6Qjb",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "内马尼亚-别利察",
+          "Position" : "F（88号）",
+          "Height" : "2.08米/6尺10",
+          "Weight" : "106公斤/234磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "xWvk3XEBbTbEknGg6gg2",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "斯坦利-约翰逊",
+          "Position" : "F-G（5号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "110公斤/242磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "y2vk3XEBbTbEknGg6gho",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "马库斯-斯马特",
+          "Position" : "G（36号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "100公斤/220磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "1mvk3XEBbTbEknGg6wh_",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "诺曼-鲍威尔",
+          "Position" : "G（24号）",
+          "Height" : "1.91米/6尺3",
+          "Weight" : "98公斤/215磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "5Wvk3XEBbTbEknGg7AjK",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "尼古拉斯-克拉克斯顿",
+          "Position" : "F-C（33号）",
+          "Height" : "2.11米/6尺11",
+          "Weight" : "98公斤/215磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "6mvk3XEBbTbEknGg7Ajy",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "德安德烈-亨特",
+          "Position" : "F-G（12号）",
+          "Height" : "2.01米/6尺7",
+          "Weight" : "102公斤/225磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "Amvk3XEBbTbEknGg7QnL",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "乔-哈里斯",
+          "Position" : "G-F（12号）",
+          "Height" : "1.98米/6尺6",
+          "Weight" : "100公斤/220磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "CGvk3XEBbTbEknGg7Qn3",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "凯文-卢尼",
+          "Position" : "F-C（5号）",
+          "Height" : "2.06米/6尺9",
+          "Weight" : "101公斤/222磅"
+        }
+      },
+      {
+        "_index" : "player_profile",
+        "_type" : "NBA",
+        "_id" : "CWvk3XEBbTbEknGg7Qn_",
+        "_score" : 0.005698021,
+        "_source" : {
+          "Name" : "布鲁诺-费尔南多",
+          "Position" : "F-C（24号）",
+          "Height" : "2.06米/6尺9",
+          "Weight" : "109公斤/240磅"
+        }
+      }
+    ]
+  }
+}

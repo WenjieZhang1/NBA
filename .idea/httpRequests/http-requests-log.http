@@ -1,0 +1,88 @@
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=Position:F
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092758.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=Weight:(<100)
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092737.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=Weight:(<100)
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092736.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=Weight:(<100)
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092734.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=Weight:(<200磅)
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092628.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=height:(>2米) weight:(<200磅)
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092607.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=height:(>2米) weight:(<200磅)
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092604.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=2米 200磅
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092208.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100&q=两米一 200磅
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T092140.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=&size=100
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T091832.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-05-03T091607.200.json
+
+###
+
