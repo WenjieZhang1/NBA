@@ -6,10 +6,18 @@ type Request struct {
 	ParserFunc func([]byte) ParseResult
 }
 
-// ParseResult get from requst parser
+// ParseResult get from request parser
 type ParseResult struct {
 	Requests []Request
-	Items    []interface{}
+	Items    []Item
+}
+
+// Item to store to elastic search
+type Item struct {
+	URL     string
+	Id      string
+	Type    string
+	Payload interface{}
 }
 
 // NilParser return empty parseresult

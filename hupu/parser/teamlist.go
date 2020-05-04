@@ -18,7 +18,6 @@ func ParseTeamlist(contents []byte) engine.ParseResult {
 		team := strings.TrimPrefix(string(match[1]), "https://nba.hupu.com/teams/")
 		if _, ok := visitedTeam[team]; !ok {
 			visitedTeam[team] = struct{}{}
-			result.Items = append(result.Items, "Team: "+team)
 			result.Requests = append(result.Requests, engine.Request{
 				URL:        string(match[1]),
 				ParserFunc: ParseTeam})

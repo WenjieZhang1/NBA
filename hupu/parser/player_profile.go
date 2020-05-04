@@ -9,9 +9,10 @@ import (
 var positionRe = regexp.MustCompile(`<p>位置：([^<]+)</p>`)
 var heightRe = regexp.MustCompile(`<p>身高：([^<]+)</p>`)
 var weightRe = regexp.MustCompile(`<p>体重：([^<]+)</p>`)
+var idUrlRe = regexp.MustCompile(`https://nba.hupu.com/players/[^-]+-([\d]+).html`)
 
 // ParseProfile to get player info
-func ParseProfile(content []byte, name string) engine.ParseResult {
+func ParseProfile(content []byte, name string, url string) engine.ParseResult {
 	playerinfo := model.PlayerInfo{
 		Name: name,
 	}
@@ -28,8 +29,17 @@ func ParseProfile(content []byte, name string) engine.ParseResult {
 		playerinfo.Weight = string(match[1])
 	}
 
+	id := idUrlRe.FindStringSubmatch(url)
+
 	result := engine.ParseResult{
-		Items: []interface{}{playerinfo},
+		Items: []engine.Item{
+			{
+				URL:     url,
+				Type:    "NBA",
+				Id:      id[1],
+				Payload: playerinfo,
+			},
+		},
 	}
 
 	return result

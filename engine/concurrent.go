@@ -9,7 +9,7 @@ import (
 type ConcurrentEngine struct {
 	Sch         Scheduler
 	WorkerCount int
-	ItemChan    chan interface{}
+	ItemChan    chan Item
 }
 
 // Scheduler to schedule requests
