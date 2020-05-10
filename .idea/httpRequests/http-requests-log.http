@@ -2,6 +2,14 @@ GET http://localhost:9200/player_profile/NBA/_search?pretty=
 Accept: */*
 Cache-Control: no-cache
 
+<> 2020-05-03T110703.200.json
+
+###
+
+GET http://localhost:9200/player_profile/NBA/_search?pretty=
+Accept: */*
+Cache-Control: no-cache
+
 <> 2020-05-03T105053.200.json
 
 ###

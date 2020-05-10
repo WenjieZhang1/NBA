@@ -18,7 +18,7 @@ func ItemSaver() (chan engine.Item, error) {
 	go func() {
 		for {
 			item := <-out
-			err := saveItem(client, item)
+			err := SaveItem(client, item, "player_profile")
 			if err != nil {
 				log.Printf("Item saver error saving item: %v: %v", item, err)
 			}
@@ -28,13 +28,13 @@ func ItemSaver() (chan engine.Item, error) {
 	return out, nil
 }
 
-func saveItem(client *elastic.Client, item engine.Item) error {
+func SaveItem(client *elastic.Client, item engine.Item, index string) error {
 	if item.Type == "" {
 		return errors.New("must apply type")
 	}
 
 	indexService := client.Index().
-		Index("player_profile").
+		Index(index).
 		Type(item.Type).
 		BodyJson(item)
 
